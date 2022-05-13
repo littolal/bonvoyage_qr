@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:barcode-scanning-common:17.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5e18d2e45427a53bb33ce657107e4d5c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5e18d2e45427a53bb33ce657107e4d5c/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5e18d2e45427a53bb33ce657107e4d5c/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
